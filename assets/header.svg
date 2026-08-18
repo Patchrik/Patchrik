@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="224" viewBox="0 0 620 224" role="img" aria-label="Parker Kelley patchrik — React &amp; TypeScript developer with 5 years of experience — learning to tackle backend. Actively seeking my next opportunity—open to frontend, full-stack, and adjacent engineering roles.">
+  <title>Parker Kelley patchrik — React &amp; TypeScript developer with 5 years of experience — learning to tackle backend. Actively seeking my next opportunity—open to frontend, full-stack, and adjacent engineering roles.</title>
+  <defs>
+    <filter id="phosphor" filterUnits="userSpaceOnUse" x="0" y="0" width="620" height="224">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="4" result="wide"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="tight"/>
+      <feMerge>
+        <feMergeNode in="wide"/>
+        <feMergeNode in="tight"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1.5" fill="rgba(0,0,0,0.08)"/>
+    </pattern>
+  </defs>
+  <text x="0" y="56" font-family="monospace" font-weight="bold" font-size="44"
+        fill="#00E5FF" letter-spacing="1" filter="url(#phosphor)">
+    Parker Kelley
+    <animate attributeName="opacity" values="1;0.96;1" dur="2.2s" repeatCount="indefinite"/>
+  </text>
+  <text x="0" y="84" font-family="monospace" font-weight="bold" font-size="22"
+        fill="#00E5FF" letter-spacing="1" filter="url(#phosphor)">
+    patchrik<tspan>_<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></tspan>
+    <animate attributeName="opacity" values="1;0.96;1" dur="2.2s" repeatCount="indefinite"/>
+  </text>
+  <text x="0" y="112" font-family="monospace" font-size="16" fill="#00E5FF" filter="url(#phosphor)">React &amp; TypeScript developer with 5 years of experience</text>
+  <text x="0" y="132" font-family="monospace" font-size="16" fill="#00E5FF" filter="url(#phosphor)">— learning to tackle backend.</text>
+  <text x="0" y="156" font-family="monospace" font-size="16" fill="#00E5FF" filter="url(#phosphor)">Actively seeking my next opportunity—</text>
+  <text x="0" y="176" font-family="monospace" font-size="16" fill="#00E5FF" filter="url(#phosphor)">open to frontend, full-stack, and adjacent engineering roles.</text>
+  <line x1="0" y1="198" x2="620" y2="198" stroke="#00E5FF" stroke-width="4" filter="url(#phosphor)"/>
+  <rect x="0" y="0" width="620" height="224" fill="url(#scan)"/>
+</svg>
