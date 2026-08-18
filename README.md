@@ -1,16 +1,8 @@
-# Parker Kelley
-
-### Patchrik
-
-React & TypeScript developer with 5 years of experience — learning to tackle backend.
-
-Actively seeking my next opportunity—open to frontend, full-stack, and adjacent engineering roles.
-
-![divider](./assets/divider.svg)
+![Parker Kelley · patchrik — React & TypeScript developer with 5 years of experience — learning to tackle backend. Actively seeking my next opportunity—open to frontend, full-stack, and adjacent engineering roles.](./assets/header.svg)
 
 ## About
 
-Moving toward full-stack development with clear architecture, thoughtful composition, and simple software that solves real problems. *The Pragmatic Programmer* shaped my approach.
+Moving toward full-stack development with clear architecture, thoughtful composition, and simple software that solves real problems. _The Pragmatic Programmer_ shaped my approach.
 
 I enjoy building web applications, CLI tools, and AI-enhanced workflows.
 
